@@ -2,13 +2,13 @@
   "Not found": {
     "status": 400,
     "code": "not_found",
-    "message": "Content not found.",
+    "message": "Content not found",
     "severity": "LOW"
   },
   "bad_request": {
     "status": 400,
     "code": "bad_request",
-    "message": "The client sent a request that this server could not understand.",
+    "message": "The client sent a request that this server could not understand",
     "severity": "LOW"
   },
   "internal_server_error": {
